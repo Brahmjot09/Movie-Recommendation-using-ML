@@ -7,7 +7,7 @@ Uses 2 features of sklearn
  1. countVectorizer -class 
  2. cosine_similarity() -method
 	
-Dataset of  4000+ movies. 
+Dataset of  _4000+ movies_. 
 <br />
 
 	Below are the ScreenShots of a Web Application based on this Model
@@ -29,7 +29,9 @@ Dataset of  4000+ movies.
 <hr />
 
 
-> Web Application  
-Credit: Mihir Thakkar(Code Heroku)
+> **Web Application**
 App Link: https://demo.rapidquest.in/movie_recommendation/static/index.html
+
 Project Link: https://github.com/codeheroku/Introduction-to-Machine-Learning/tree/master/Building%20a%20Movie%20Recommendation%20Engine
+
+Credit: _Mihir Thakkar(Code Heroku)_
