@@ -30,4 +30,6 @@ Dataset of  4000+ movies.
 
 
 > Web Application  
-Credit: Code Mihir Thakkar(Code Heroku)
+Credit: Mihir Thakkar(Code Heroku)
+App Link: https://demo.rapidquest.in/movie_recommendation/static/index.html
+Project Link: https://github.com/codeheroku/Introduction-to-Machine-Learning/tree/master/Building%20a%20Movie%20Recommendation%20Engine
