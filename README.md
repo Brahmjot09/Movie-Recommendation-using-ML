@@ -10,6 +10,19 @@ Uses 2 features of sklearn
 Dataset of  4000+ movies. 
 <br />
 
-
-
+	Below are the ScreenShots of a Web Application based on this Model
 	
+	
+![Movie Recommendation Model](Images/1.png)
+<hr />
+![Movie Recommendation Model](Images/2.png)
+<hr />
+![Movie Recommendation Model](Images/4.png)
+<hr />
+![Movie Recommendation Model](Images/5.png)
+<hr />
+![Movie Recommendation Model](Images/6.png)
+<hr />
+
+> Web Application  
+Credit: Code Mihir Thakkar(Code Heroku)
