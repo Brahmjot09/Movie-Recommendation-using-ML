@@ -15,14 +15,19 @@ Dataset of  4000+ movies.
 	
 ![Movie Recommendation Model](Images/1.png)
 <hr />
+
 ![Movie Recommendation Model](Images/2.png)
 <hr />
+
 ![Movie Recommendation Model](Images/4.png)
 <hr />
+
 ![Movie Recommendation Model](Images/5.png)
 <hr />
+
 ![Movie Recommendation Model](Images/6.png)
 <hr />
+
 
 > Web Application  
 Credit: Code Mihir Thakkar(Code Heroku)
